@@ -1,0 +1,4 @@
+[sleet "feed"]
+    type = azure
+    container = feed
+    path = "https://<your feed>.blob.core.windows.net/feed/"

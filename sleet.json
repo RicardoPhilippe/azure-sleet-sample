@@ -1,0 +1,12 @@
+{
+  "username": "",
+  "useremail": "",
+  "sources": [
+    {
+      "name": "myAzureFeed",
+      "type": "azure",
+      "container": "myfeed",
+      "connectionString": "DefaultEndpointsProtocol=https;AccountName=;AccountKey=;BlobEndpoint="
+    }
+  ]
+}
