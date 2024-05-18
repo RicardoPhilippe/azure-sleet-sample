@@ -6,7 +6,7 @@
       "name": "myAzureFeed",
       "type": "azure",
       "container": "myfeed",
-      "connectionString": "DefaultEndpointsProtocol=https;AccountName=;AccountKey=;BlobEndpoint="
+      "connectionString": "DefaultEndpointsProtocol=https;AccountName=<AccountName>;AccountKey=<AccountKey>;BlobEndpoint=https://<AccountName>.blob.core.windows.net/"
     }
   ]
 }
